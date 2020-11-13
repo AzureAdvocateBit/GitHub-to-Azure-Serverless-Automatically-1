@@ -1,6 +1,6 @@
 # Figuring out Azure Serverless
 
-[![Deploy to Azure](https://img.shields.io/badge/Deploy%20To-Azure-blue?logo=microsoft-azure)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmaster%2Fafun95%2Fdeployment%2FdeployAzure.json?WT.mc_id=frbouche-github-event) 
+[![Deploy to Azure](https://img.shields.io/badge/Deploy%20To-Azure-blue?logo=microsoft-azure)](https://portal.azure.com/?WT.mc_id=dotnet-0000-frbouche#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fmicrosoft%2Fignite-learning-paths-training-afun%2Fmaster%2Fafun95%2Fdeployment%2FdeployAzure.json?WT.mc_id=frbouche-github-event) 
 
 ## Session Abstract
 
